@@ -38,7 +38,7 @@ namespace Aula03
 
             //Exemplo de uso de placeholder
 
-            Console.WriteLine(¨{0} tem¨ {1} anos, genero {2} e tem saldo igual a {3:F2} reais¨, nome, idade, genero, saldo);
+            Console.WriteLine("{0} tem {1} anos, genero {2} e tem saldo igual a {3:F2} reais", nome, idade, genero, saldo);
             //{0} é o primeiro parametro, {1} é o segundo parametro, {2} é o terceiro parametro, {3} é o quarto parametro
             //:F2 é o formato de saida para 2 casas decimais
             //Depois que passar os parametros, colocar uma virgula e depois colocar as variavéis que seram exibidas
@@ -47,7 +47,7 @@ namespace Aula03
 
             //Exemplo de uso de interpolação de strings
             
-            Console.WriteLine("${nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais");
+            Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais");
             //Usa o cifrão para exibir o valor da variavel e o :F2 para formatar o numero de casas decimais
             //Colocar o nome da variavel entre chaves
 
