@@ -1,5 +1,3 @@
-# Jornada C#
+# Estudo de C#
 
-## Roadmap
-
-[ABRIR ROADMAP](https://github.com/dutraeduardo89/jornada-csharp/issues/1)
+Repositório com aulas, exercícios e anotações de **C#** e **.NET**.

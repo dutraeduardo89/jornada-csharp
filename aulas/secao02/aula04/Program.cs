@@ -11,6 +11,8 @@
 // -- Atribuição de valor com decremento (valor - 1) (decrementa o valor em 1)
 
 
+
+
 namespace Aula04{
     class Program{
 
@@ -43,6 +45,20 @@ namespace Aula04{
             s += "DEF";
             Console.WriteLine(s);
 
+            Console.WriteLine("Qual a hora atual? ");
+            int hora = int.Parse(Console.ReadLine());
+
+            if(hora < 12){
+                Console.WriteLine("Bom dia!");
+            }
+            else if(hora < 18){
+                Console.WriteLine("Boa tarde!");
+
+            }else {
+                Console.WriteLine("Boa noite!");
+            }
+
+            
         }
     }
 }   
