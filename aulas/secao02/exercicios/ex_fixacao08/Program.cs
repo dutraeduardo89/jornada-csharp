@@ -9,7 +9,7 @@
 
 using System;
 
-namespace Aula07{
+namespace ExFixacao08{
     class Program{
         static void Main(string[] args)
         {

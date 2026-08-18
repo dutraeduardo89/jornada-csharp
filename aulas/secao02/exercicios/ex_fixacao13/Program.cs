@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Ex_Fixacao13{
+namespace ExFixacao13{
     class Program{
 
         static double salario(int horas, double valor){

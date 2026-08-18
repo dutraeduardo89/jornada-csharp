@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ex_fixacao16{
+namespace ExFixacao16{
     class Program{
 
 

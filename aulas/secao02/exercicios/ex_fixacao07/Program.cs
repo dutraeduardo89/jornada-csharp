@@ -1,5 +1,7 @@
 ﻿using System;
 
+namespace ExFixacao07;
+
 class Program
 {
     static void Main(string[] args)

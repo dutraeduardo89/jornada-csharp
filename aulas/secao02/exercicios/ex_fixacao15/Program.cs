@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Ex_Fixacao15{
+namespace ExFixacao15{
     class Program{
 
         static double areaTriangulo(double a, double c){

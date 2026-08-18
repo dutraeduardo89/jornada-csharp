@@ -1,5 +1,7 @@
 ﻿using System;
 
+namespace ExFixacao04;
+
 class Program
 {
     static int Sum(double[] num){

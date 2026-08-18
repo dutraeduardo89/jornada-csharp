@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ex_Fixacao10{
+namespace ExFixacao10{
     class Program{
         static void Main(string[] args)
         {

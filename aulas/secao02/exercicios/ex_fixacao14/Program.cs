@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Ex_Fixacao14{
+namespace ExFixacao14{
     class Program{
 
         static void Main(string[] args)
